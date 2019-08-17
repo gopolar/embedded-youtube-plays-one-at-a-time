@@ -2,7 +2,7 @@
 
 ## About
 
-Javascript script that **allows to play only one YouTube video at a time on the same page **
+Javascript script that **allows to play only one YouTube video at a time on the same page**
 
 ## Demo
 
